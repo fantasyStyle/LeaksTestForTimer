@@ -1,0 +1,2 @@
+# LeaksTestForTimer
+针对NSTimer造成的循环引用处理
